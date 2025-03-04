@@ -53,11 +53,11 @@
 
 // a. Hint: follow the pattern.
 variable1 = 1;
-variable2 = ;
-variable3 3;
+variable2 = 2 ;
+variable3 = 3;
 
 // b. Hint: This function needs a name after the word function.
-function () {
+function functionName() {
   console.log("Hello!");
 }
 
@@ -73,7 +73,7 @@ function () {
 // or Cmd-/ (Mac). Notice if you apply the command multiple times, it will
 // uncomment/comment/uncomment... it.
 
-uselessCode = 'I am useless';
+//uselessCode = 'I am useless';
 
 // b. Cool. What other shorcuts are available? Here is a shortcut to find
 // them all. Ctrl-Shift-P. Look around and remember how to get here,
